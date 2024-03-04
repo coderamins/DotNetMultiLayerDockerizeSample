@@ -1,0 +1,12 @@
+F:\developing\SampleDotnetApp\sampleapi.domain\bin\Debug\net7.0\sampleapi.domain.deps.json
+F:\developing\SampleDotnetApp\sampleapi.domain\bin\Debug\net7.0\sampleapi.domain.dll
+F:\developing\SampleDotnetApp\sampleapi.domain\bin\Debug\net7.0\sampleapi.domain.pdb
+F:\developing\SampleDotnetApp\sampleapi.domain\obj\Debug\net7.0\sampleapi.domain.csproj.AssemblyReference.cache
+F:\developing\SampleDotnetApp\sampleapi.domain\obj\Debug\net7.0\sampleapi.domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\developing\SampleDotnetApp\sampleapi.domain\obj\Debug\net7.0\sampleapi.domain.AssemblyInfoInputs.cache
+F:\developing\SampleDotnetApp\sampleapi.domain\obj\Debug\net7.0\sampleapi.domain.AssemblyInfo.cs
+F:\developing\SampleDotnetApp\sampleapi.domain\obj\Debug\net7.0\sampleapi.domain.csproj.CoreCompileInputs.cache
+F:\developing\SampleDotnetApp\sampleapi.domain\obj\Debug\net7.0\sampleapi.domain.dll
+F:\developing\SampleDotnetApp\sampleapi.domain\obj\Debug\net7.0\refint\sampleapi.domain.dll
+F:\developing\SampleDotnetApp\sampleapi.domain\obj\Debug\net7.0\sampleapi.domain.pdb
+F:\developing\SampleDotnetApp\sampleapi.domain\obj\Debug\net7.0\ref\sampleapi.domain.dll

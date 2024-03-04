@@ -1,0 +1,14 @@
+F:\developing\SampleDotnetApp\sampleapi.webapi\bin\Debug\net7.0\publish\sampleapi.webapi.exe
+F:\developing\SampleDotnetApp\sampleapi.webapi\bin\Debug\net7.0\publish\appsettings.Development.json
+F:\developing\SampleDotnetApp\sampleapi.webapi\bin\Debug\net7.0\publish\appsettings.json
+F:\developing\SampleDotnetApp\sampleapi.webapi\bin\Debug\net7.0\publish\sampleapi.webapi.dll
+F:\developing\SampleDotnetApp\sampleapi.webapi\bin\Debug\net7.0\publish\sampleapi.webapi.deps.json
+F:\developing\SampleDotnetApp\sampleapi.webapi\bin\Debug\net7.0\publish\sampleapi.webapi.runtimeconfig.json
+F:\developing\SampleDotnetApp\sampleapi.webapi\bin\Debug\net7.0\publish\sampleapi.webapi.pdb
+F:\developing\SampleDotnetApp\sampleapi.webapi\bin\Debug\net7.0\publish\Microsoft.AspNetCore.OpenApi.dll
+F:\developing\SampleDotnetApp\sampleapi.webapi\bin\Debug\net7.0\publish\Microsoft.OpenApi.dll
+F:\developing\SampleDotnetApp\sampleapi.webapi\bin\Debug\net7.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+F:\developing\SampleDotnetApp\sampleapi.webapi\bin\Debug\net7.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\developing\SampleDotnetApp\sampleapi.webapi\bin\Debug\net7.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\developing\SampleDotnetApp\sampleapi.webapi\bin\Debug\net7.0\publish\sampleapi.domain.dll
+F:\developing\SampleDotnetApp\sampleapi.webapi\bin\Debug\net7.0\publish\sampleapi.domain.pdb
